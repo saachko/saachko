@@ -1,6 +1,6 @@
 ## Anastasiya Sachko
 ### Frontend Developer
-Personally I'm a dedicated team-member with such skills as stress resistance, sociability, creativity and high level of English speaking skills. I code in TypeScript (or vanilla JS), work with React, styled components or Sass, make pixel-perfect sites using Figma layouts.
+Personally I'm a dedicated team-member with such skills as stress resistance, sociability, creativity and high level of English speaking skills. I code in TypeScript (or vanilla JS), work with React, styled components or Sass, make pixel-perfect sites using Figma layouts, can create a server with node.js+express.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saachko)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naztya12323@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saachko/)
 
