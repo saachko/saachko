@@ -1,6 +1,6 @@
 ## Anastasiya Sachko
 ### Frontend Developer
-Personally I'm a dedicated team-member with such skills as stress resistance, sociability, creativity and high level of English speaking skills. I code in TypeScript (or vanilla JS), work with React, styled components or Sass, make pixel-perfect sites using Figma layouts, can create a server with node.js+express.
+My expertise lies in TypeScript, JavaScript, React and Next.js, along with experience working with Svelte. I pay close attention to details and ensure that my solutions reflect the underlying business ideas. I have a solid understanding of how server-side architecture works and hands-on experience with Node.js and Express.js. I'm open to collaboration as a Frontend developer.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saachko)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naztya12323@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saachko/)
 
